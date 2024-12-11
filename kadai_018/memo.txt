@@ -1,0 +1,48 @@
+#top {
+  width: 800px;
+  background-color: #dcc9f4;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.top-child {
+  width: 20%;
+  background-color: #ffd9df;
+  float: left;
+}
+
+#middle {
+  width: 800px;
+  height: 800px;
+  margin: 20px 0px;
+  background-color: #ffd9df;
+  margin: 20px 0px;
+}
+
+#middle div {
+  width: 200px;
+  height: 200px;
+  background-color: #87ceeb;
+}
+
+#middle-child01 {
+  top: 100px;
+  left: 100px;
+}
+
+#middle-child02 {
+  top: 300px;
+  left: 300px;
+}
+
+#middle-child03 {
+  top: 500px;
+  left: 500px;
+}
+
+#bottom {
+  width: 800px;
+  height: 300px;
+  margin: 0 auto;
+
+}
